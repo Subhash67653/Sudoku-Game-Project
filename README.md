@@ -1,1 +1,1 @@
-# Sudoku-Game-Project
+Implemented a Sudoku solver for solving a sudoku game.
